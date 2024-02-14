@@ -1,7 +1,7 @@
 # 💫 About Me:
 🔭 I'm currently leading **innovative NLP and ML projects**, focusing on developing and implementing state-of-the-art algorithms for text analysis, sentiment analysis, and language understanding.<br>
 👯 I’m eager to collaborate on **open-source NLP projects** or academic research focused on advancing the field of language processing.<br>
-🌱 Constantly enhancing my skills in **NLP, ML, and software engineering practices** to contribute to high-impact projects and technological advancements.
+🌱 Constantly enhancing my skills in **NLP, CV, ML, and software engineering practices** to contribute to high-impact projects and technological advancements.
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/kangcshin) 
